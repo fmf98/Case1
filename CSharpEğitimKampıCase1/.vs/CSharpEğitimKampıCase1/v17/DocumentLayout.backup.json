@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\source\\repos\\CSharpE\u011FitimKamp\u0131Case1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590156A7-887F-4262-9D7B-76A7FBAD34DE}|CSharpE\u011FitimKamp\u0131Case1\\CSharpE\u011FitimKamp\u0131Case1.csproj|c:\\users\\burak\\source\\repos\\csharpe\u011Fitimkamp\u0131case1\\csharpe\u011Fitimkamp\u0131case1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590156A7-887F-4262-9D7B-76A7FBAD34DE}|CSharpE\u011FitimKamp\u0131Case1\\CSharpE\u011FitimKamp\u0131Case1.csproj|solutionrelative:csharpe\u011Fitimkamp\u0131case1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\CSharpE\u011FitimKamp\u0131Case1\\CSharpE\u011FitimKamp\u0131Case1\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpE\u011FitimKamp\u0131Case1\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\CSharpE\u011FitimKamp\u0131Case1\\CSharpE\u011FitimKamp\u0131Case1\\Program.cs",
+              "RelativeToolTip": "CSharpE\u011FitimKamp\u0131Case1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:50:37.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
